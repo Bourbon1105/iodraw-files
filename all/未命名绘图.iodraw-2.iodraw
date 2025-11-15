@@ -124,7 +124,7 @@
         <mxCell id="39FTRFSI3rDOh6sq6-gC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="39FTRFSI3rDOh6sq6-gC-27" target="39FTRFSI3rDOh6sq6-gC-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="39FTRFSI3rDOh6sq6-gC-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;开始：调用mydft(&lt;i&gt;x&lt;/i&gt;)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCCCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="39FTRFSI3rDOh6sq6-gC-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;开始：调用myidft(&lt;i&gt;x&lt;/i&gt;)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCCCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="352" y="545" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="39FTRFSI3rDOh6sq6-gC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="39FTRFSI3rDOh6sq6-gC-32" target="39FTRFSI3rDOh6sq6-gC-55">
