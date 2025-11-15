@@ -58,7 +58,7 @@
         <mxCell id="39FTRFSI3rDOh6sq6-gC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="39FTRFSI3rDOh6sq6-gC-4" target="39FTRFSI3rDOh6sq6-gC-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="39FTRFSI3rDOh6sq6-gC-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;k&amp;lt;N/2 ?&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="39FTRFSI3rDOh6sq6-gC-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;k&amp;lt;N/2 ?&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#FFE6CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="304" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39FTRFSI3rDOh6sq6-gC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="39FTRFSI3rDOh6sq6-gC-5" target="39FTRFSI3rDOh6sq6-gC-6">
