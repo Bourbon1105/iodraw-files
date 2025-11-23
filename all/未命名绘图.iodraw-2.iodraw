@@ -634,7 +634,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9I4GC6DqBSCHP6NR9g_z-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;计算二进制序列长度L&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1780" y="87" width="134" height="30" as="geometry" />
+          <mxGeometry x="1780" y="83" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9I4GC6DqBSCHP6NR9g_z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9I4GC6DqBSCHP6NR9g_z-9" target="9I4GC6DqBSCHP6NR9g_z-13">
           <mxGeometry relative="1" as="geometry">
@@ -679,7 +679,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9I4GC6DqBSCHP6NR9g_z-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;初始化位反转重排后的序列&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1787" y="134" width="120" height="30" as="geometry" />
+          <mxGeometry x="1787" y="127" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="9I4GC6DqBSCHP6NR9g_z-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;返回频域信号&lt;i&gt;X&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1677" y="267" width="120" height="30" as="geometry" />
