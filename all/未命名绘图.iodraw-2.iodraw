@@ -758,6 +758,9 @@
         <mxCell id="9I4GC6DqBSCHP6NR9g_z-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;对信号取转置&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;并除以N&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1787" y="547" width="120" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="9I4GC6DqBSCHP6NR9g_z-37" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;对二进制进行翻转&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1677" y="314" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
