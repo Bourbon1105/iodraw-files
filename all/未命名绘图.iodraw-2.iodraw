@@ -761,7 +761,7 @@
           <mxGeometry x="1838" y="739" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9I4GC6DqBSCHP6NR9g_z-62" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;输出频域序列y&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1916" y="778" width="120" height="32" as="geometry" />
+          <mxGeometry x="1916" y="778" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="9I4GC6DqBSCHP6NR9g_z-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9I4GC6DqBSCHP6NR9g_z-64">
           <mxGeometry relative="1" as="geometry">
@@ -769,7 +769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9I4GC6DqBSCHP6NR9g_z-64" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;i&gt;计算蝶形间距B&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1740" y="780" width="102" height="30" as="geometry" />
+          <mxGeometry x="1757" y="780" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9I4GC6DqBSCHP6NR9g_z-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9I4GC6DqBSCHP6NR9g_z-60">
           <mxGeometry relative="1" as="geometry">
