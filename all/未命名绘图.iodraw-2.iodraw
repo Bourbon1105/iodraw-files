@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="267" dy="150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -547,14 +547,6 @@
         <mxCell id="39FTRFSI3rDOh6sq6-gC-191" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;获取信号长度&lt;i&gt;N&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFCC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1408" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9I4GC6DqBSCHP6NR9g_z-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="39FTRFSI3rDOh6sq6-gC-192" target="39FTRFSI3rDOh6sq6-gC-185">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1358" y="302" />
-              <mxPoint x="1468" y="302" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="39FTRFSI3rDOh6sq6-gC-192" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;返回频域信号&lt;i&gt;X&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#CCFFCC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1306" y="263" width="103" height="30" as="geometry" />
         </mxCell>
@@ -586,7 +578,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9I4GC6DqBSCHP6NR9g_z-140" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9I4GC6DqBSCHP6NR9g_z-135">
+        <mxCell id="9I4GC6DqBSCHP6NR9g_z-140" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;否&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9I4GC6DqBSCHP6NR9g_z-135">
           <mxGeometry x="0.1414" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
