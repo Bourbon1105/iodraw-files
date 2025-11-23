@@ -1,0 +1,92 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="cNx_8gqi9Nb5KWYvhCWa">
+    <mxGraphModel dx="460" dy="197" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2nGhPGfVffI7qb9ROHes-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sV-9xtNYmrebKgteOxC-6" target="2sV-9xtNYmrebKgteOxC-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="192" as="sourcePoint" />
+            <mxPoint x="330" y="142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sV-9xtNYmrebKgteOxC-6" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;原始低频&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;系数&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; background-color: initial;&quot;&gt;X&lt;sup&gt;ll&lt;/sup&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="171" y="159" width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2sV-9xtNYmrebKgteOxC-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;嵌入后低频系数&lt;/b&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; background-color: initial;&quot;&gt;Y&lt;sup&gt;ll&lt;/sup&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="436" y="159" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2sV-9xtNYmrebKgteOxC-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;基于格&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;QIM&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;中间相遇嵌入&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="281" y="140" width="61" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2sV-9xtNYmrebKgteOxC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255.76" y="175" as="targetPoint" />
+            <mxPoint x="256" y="149" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sV-9xtNYmrebKgteOxC-32" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;位图信息&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Map&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="226" y="120" width="60" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="2sV-9xtNYmrebKgteOxC-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.589;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425.99" y="173.62" as="sourcePoint" />
+            <mxPoint x="422" y="217.99599999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sV-9xtNYmrebKgteOxC-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;差值信号&amp;nbsp;&lt;/b&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;D&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="472" y="218" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ykDXBLS-qctZCBehfjpz-1" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;水印信号&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;W&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="224.5" y="218" width="63" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="ykDXBLS-qctZCBehfjpz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.446;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="2sV-9xtNYmrebKgteOxC-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="130" />
+              <mxPoint x="222" y="130" />
+            </Array>
+            <mxPoint x="91" y="160" as="sourcePoint" />
+            <mxPoint x="222" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ykDXBLS-qctZCBehfjpz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ykDXBLS-qctZCBehfjpz-3" target="2sV-9xtNYmrebKgteOxC-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ykDXBLS-qctZCBehfjpz-3" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;原始信号&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; background-color: initial;&quot;&gt;X&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="63" y="160" width="47" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ykDXBLS-qctZCBehfjpz-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;小波变换&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="119" y="155" width="39" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="2nGhPGfVffI7qb9ROHes-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sV-9xtNYmrebKgteOxC-40" target="2sV-9xtNYmrebKgteOxC-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sV-9xtNYmrebKgteOxC-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;差值信号产生&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="220" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ykDXBLS-qctZCBehfjpz-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;溢出检测&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="119" y="111" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ykDXBLS-qctZCBehfjpz-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;溢出问题再处理&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="145.5" width="45" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="u25U5-7uEXxXGF-d6AYL-1" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;量化步长&lt;/b&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Δ&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="311" y="103" width="90" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="2nGhPGfVffI7qb9ROHes-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256" y="210" as="sourcePoint" />
+            <mxPoint x="256" y="174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2nGhPGfVffI7qb9ROHes-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u25U5-7uEXxXGF-d6AYL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269" y="185" as="sourcePoint" />
+            <mxPoint x="356" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
