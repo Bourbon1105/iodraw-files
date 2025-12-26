@@ -37,7 +37,7 @@
         <mxCell id="8ystVc4CgAm2IyRngogn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ystVc4CgAm2IyRngogn-5" target="8ystVc4CgAm2IyRngogn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8ystVc4CgAm2IyRngogn-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;混沌同步&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;与恢复&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ystVc4CgAm2IyRngogn-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;混沌同步&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="310" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ystVc4CgAm2IyRngogn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ystVc4CgAm2IyRngogn-6" target="8ystVc4CgAm2IyRngogn-7">
