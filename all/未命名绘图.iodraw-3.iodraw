@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8ystVc4CgAm2IyRngogn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ystVc4CgAm2IyRngogn-1" target="8ystVc4CgAm2IyRngogn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8ystVc4CgAm2IyRngogn-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;秘密信息&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;生成&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="120" width="90" height="50" as="geometry" />
         </mxCell>
