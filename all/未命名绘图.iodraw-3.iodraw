@@ -10,7 +10,7 @@
         <mxCell id="8ystVc4CgAm2IyRngogn-2" value="NRZ编码模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8ystVc4CgAm2IyRngogn-3" value="秘密信息生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ystVc4CgAm2IyRngogn-3" value="混沌信号调制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368.5" y="130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ystVc4CgAm2IyRngogn-4" value="秘密信息生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
