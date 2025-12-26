@@ -22,7 +22,7 @@
         <mxCell id="8ystVc4CgAm2IyRngogn-6" value="信息提取&lt;div&gt;与解调&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="310" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8ystVc4CgAm2IyRngogn-7" value="秘密信息生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ystVc4CgAm2IyRngogn-7" value="信号滤波&lt;div&gt;与处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ystVc4CgAm2IyRngogn-8" value="秘密信息生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
