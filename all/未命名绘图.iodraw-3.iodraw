@@ -13,7 +13,7 @@
         <mxCell id="8ystVc4CgAm2IyRngogn-3" value="混沌信号生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368.5" y="120" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8ystVc4CgAm2IyRngogn-4" value="混沌掩盖与调制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ystVc4CgAm2IyRngogn-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;混沌掩盖&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;与调制&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="120" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ystVc4CgAm2IyRngogn-5" value="秘密信息生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
