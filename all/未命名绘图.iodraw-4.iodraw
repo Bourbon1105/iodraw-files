@@ -37,6 +37,9 @@
         <mxCell id="NgNZePiZHXLTCL3k0HgH-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+SC&quot; face=&quot;Noto Sans SC&quot; style=&quot;font-size: 18px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NgNZePiZHXLTCL3k0HgH-14" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+SC&quot; face=&quot;Noto Sans SC&quot; style=&quot;font-size: 18px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
