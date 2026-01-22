@@ -52,8 +52,8 @@
         <mxCell id="NgNZePiZHXLTCL3k0HgH-18" value="池化层&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Max&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="562" width="50" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="NgNZePiZHXLTCL3k0HgH-19" value="缓冲器&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;D&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="562" width="50" height="32" as="geometry" />
+        <mxCell id="NgNZePiZHXLTCL3k0HgH-19" value="长缓冲器&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;LD&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="562" width="57" height="32" as="geometry" />
         </mxCell>
         <mxCell id="NgNZePiZHXLTCL3k0HgH-20" value="缓冲器&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;D&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="562" width="50" height="32" as="geometry" />
