@@ -70,6 +70,9 @@
         <mxCell id="NgNZePiZHXLTCL3k0HgH-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;输入&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Input&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="546" width="45" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="NgNZePiZHXLTCL3k0HgH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NgNZePiZHXLTCL3k0HgH-17" target="NgNZePiZHXLTCL3k0HgH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
